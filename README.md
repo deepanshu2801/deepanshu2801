@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/5cf8670b-021d-415f-aca8-0698f5ceeedc
 
 <p align="center">
   <a href="https://github.com/deepanshu2801">
