@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=475&height=44&lines=building%2C%20breaking%2C%20learning.;I%20use%20Arch%2C%20btw." alt="Typing headlines" />
 </p>
-<img width="735" height="412" alt="f899f7a1ea7169324d7a884a504ee9d2" src="https://github.com/user-attachments/assets/806a4141-f11c-4948-9ead-5038a63fd0ee" />
+![Uploading ChatGPT Image Aug 24, 2026, 04_42_05 PM.png…]()
+
 
 ### 🚀 About Me
 
