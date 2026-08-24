@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/deepanshu2801">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=40&height=90&width=1200&text=Hello!%20I'm%20Deepanshu%20%E2%80%94%20building%2C%20breaking%2C%20learning." alt="Hello! I&#39;m Deepanshu — building, breaking, learning." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=40&height=90&width=1200&text=HellHey%20I'm%20Deepanshu%20%E2%80%94%20building%2C%20breaking%2C%20learning." alt="Hello! I&#39;m Deepanshu — building, breaking, learning." />
   </a>
 </p>
 
