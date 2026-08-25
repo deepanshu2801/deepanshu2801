@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=475&height=44&lines=building%2C%20breaking%2C%20learning.;I%20use%20Arch%2C%20btw." alt="Typing headlines" />
 </p>
 
-<img width="1672" height="941" alt="ChatGPT Image Aug 24, 2026, 04_42_05 PM" src="https://github.com/user-attachments/assets/9cd7effe-f278-4856-84cf-68337749cd70" />
+<img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/9cd7effe-f278-4856-84cf-68337749cd70" />
 
 
 ### 🚀 About Me
